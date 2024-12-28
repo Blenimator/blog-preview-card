@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://blenimator.github.io/blog-preview-card/)
+- [Solution URL](https://your-solution-url.com)
+- [Live Site URL](https://blenimator.github.io/blog-preview-card/)
 
 ### Built with
 
